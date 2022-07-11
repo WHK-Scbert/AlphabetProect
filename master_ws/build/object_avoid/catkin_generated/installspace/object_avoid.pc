@@ -1,0 +1,8 @@
+prefix=/home/mark/master_ws/install
+
+Name: object_avoid
+Description: Description of object_avoid
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lobject_avoid
+Requires: message_runtime cv_bridge geometry_msgs i2cpwm_board rospy sensor_msgs std_msgs

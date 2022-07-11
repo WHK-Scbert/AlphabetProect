@@ -1,0 +1,8 @@
+prefix=/home/mark/master_ws/devel
+
+Name: ece387_curriculum
+Description: Description of ece387_curriculum
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

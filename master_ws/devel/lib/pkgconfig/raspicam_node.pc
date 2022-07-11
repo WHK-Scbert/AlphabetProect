@@ -1,0 +1,8 @@
+prefix=/home/mark/master_ws/devel
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 0.5.0
+Cflags: -I/home/mark/master_ws/devel/include -I/home/mark/master_ws/src/raspicam_node/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

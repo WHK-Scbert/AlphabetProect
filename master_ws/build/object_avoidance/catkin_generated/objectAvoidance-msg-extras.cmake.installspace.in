@@ -1,0 +1,2 @@
+set(objectAvoidance_MESSAGE_FILES "msg/Object.msg")
+set(objectAvoidance_SERVICE_FILES "")
